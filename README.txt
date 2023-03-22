@@ -1,0 +1,1 @@
+this project is going to help me get better at using Git, the terminal, and github. Very exctied
