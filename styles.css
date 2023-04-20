@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(215, 237, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+img{
+    width: 50vw;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2em;
+}
